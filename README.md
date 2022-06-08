@@ -23,7 +23,7 @@ Once done, open this link `http:localhost/ticker/APPL` to see the website.
 # Future Work
 
 1. Find a dynamic open data for real-time stock market.
-2. Split socket and order matching into microservices.
+2. Split API endpoints and Orderbook into microservices.
 3. Containerize both frontend and backend.
 4. TBD.
 
