@@ -29,7 +29,7 @@ Once done, open this link `http:localhost/ticker/APPL` to see the website.
 1. Find a dynamic open data for real-time stock market.
 2. Split API endpoints and Orderbook into microservices.
 3. Containerize both frontend and backend.
-4. Deploy this on a real server like GCP or a third-party host like Netlify.
+4. Deploy this on a server like GCP or a third-party host like Netlify.
 5. Introduce CI/CD pipeline.
 6. Introduce testing tools such as Selenium.
 7. TBD.
